@@ -1,0 +1,100 @@
+{"filled_template": "Template describing patient", "decision_question_id": "ID1", "age": 45, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '2. {"filled_template": "Template describing patient", "decision_question_id": "ID2", "age": 60, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 0, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '3. {"filled_template": "Template describing patient", "decision_question_id": "ID3", "age": 30, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '4. {"filled_template": "Template describing patient", "decision_question_id": "ID4", "age": 75, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '5. {"filled_template": "Template describing patient", "decision_question_id": "ID5", "age": 55, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '6. {"filled_template": "Template describing patient", "decision_question_id": "ID6", "age": 68, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '7. {"filled_template": "Template describing patient", "decision_question_id": "ID7", "age": 40, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '8. {"filled_template": "Template describing patient", "decision_question_id": "ID8", "age": 80, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '9. {"filled_template": "Template describing patient", "decision_question_id": "ID9", "age": 50, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 2 (char 1)
+Skipping line due to invalid format: '10. {"filled_template": "Template describing patient", "decision_question_id": "ID10", "age": 70, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '11. {"filled_template": "Template describing patient", "decision_question_id": "ID11", "age": 35, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '12. {"filled_template": "Template describing patient", "decision_question_id": "ID12", "age": 72, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '13. {"filled_template": "Template describing patient", "decision_question_id": "ID13", "age": 48, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '14. {"filled_template": "Template describing patient", "decision_question_id": "ID14", "age": 62, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '15. {"filled_template": "Template describing patient", "decision_question_id": "ID15", "age": 38, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '16. {"filled_template": "Template describing patient", "decision_question_id": "ID16", "age": 78, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '17. {"filled_template": "Template describing patient", "decision_question_id": "ID17", "age": 52, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '18. {"filled_template": "Template describing patient", "decision_question_id": "ID18", "age": 65, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '19. {"filled_template": "Template describing patient", "decision_question_id": "ID19", "age": 42, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '20. {"filled_template": "Template describing patient", "decision_question_id": "ID20", "age": 73, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '21. {"filled_template": "Template describing patient", "decision_question_id": "ID21", "age": 47, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '22. {"filled_template": "Template describing patient", "decision_question_id": "ID22", "age": 64, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '23. {"filled_template": "Template describing patient", "decision_question_id": "ID23", "age": 39, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '24. {"filled_template": "Template describing patient", "decision_question_id": "ID24", "age": 77, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '25. {"filled_template": "Template describing patient", "decision_question_id": "ID25", "age": 53, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '26. {"filled_template": "Template describing patient", "decision_question_id": "ID26", "age": 69, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '27. {"filled_template": "Template describing patient", "decision_question_id": "ID27", "age": 43, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '28. {"filled_template": "Template describing patient", "decision_question_id": "ID28", "age": 79, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '29. {"filled_template": "Template describing patient", "decision_question_id": "ID29", "age": 56, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '30. {"filled_template": "Template describing patient", "decision_question_id": "ID30", "age": 71, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '31. {"filled_template": "Template describing patient", "decision_question_id": "ID31", "age": 37, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '32. {"filled_template": "Template describing patient", "decision_question_id": "ID32", "age": 76, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '33. {"filled_template": "Template describing patient", "decision_question_id": "ID33", "age": 51, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '34. {"filled_template": "Template describing patient", "decision_question_id": "ID34", "age": 66, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '35. {"filled_template": "Template describing patient", "decision_question_id": "ID35", "age": 41, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '36. {"filled_template": "Template describing patient", "decision_question_id": "ID36", "age": 74, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '37. {"filled_template": "Template describing patient", "decision_question_id": "ID37", "age": 54, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '38. {"filled_template": "Template describing patient", "decision_question_id": "ID38", "age": 63, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '39. {"filled_template": "Template describing patient", "decision_question_id": "ID39", "age": 36, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '40. {"filled_template": "Template describing patient", "decision_question_id": "ID40", "age": 81, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '41. {"filled_template": "Template describing patient", "decision_question_id": "ID41", "age": 49, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '42. {"filled_template": "Template describing patient", "decision_question_id": "ID42", "age": 67, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '43. {"filled_template": "Template describing patient", "decision_question_id": "ID43", "age": 44, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '44. {"filled_template": "Template describing patient", "decision_question_id": "ID44", "age": 82, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '45. {"filled_template": "Template describing patient", "decision_question_id": "ID45", "age": 57, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '46. {"filled_template": "Template describing patient", "decision_question_id": "ID46", "age": 72, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '47. {"filled_template": "Template describing patient", "decision_question_id": "ID47", "age": 46, "gender": "M", "race": "hispanic", "conditions": {"diabetes": 1, "hypertension": 0, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '48. {"filled_template": "Template describing patient", "decision_question_id": "ID48", "age": 77, "gender": "F", "race": "asian", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '49. {"filled_template": "Template describing patient", "decision_question_id": "ID49", "age": 55, "gender": "M", "race": "black", "conditions": {"diabetes": 1, "hypertension": 1, "COPD": 0, "heart_disease": 0, "arthritis": 1}}'
+Error: Extra data: line 1 column 3 (char 2)
+Skipping line due to invalid format: '50. {"filled_template": "Template describing patient", "decision_question_id": "ID50", "age": 70, "gender": "F", "race": "white", "conditions": {"diabetes": 0, "hypertension": 1, "COPD": 1, "heart_disease": 1, "arthritis": 0}}'
+Error: Extra data: line 1 column 3 (char 2)
